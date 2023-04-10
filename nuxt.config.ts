@@ -9,7 +9,7 @@ export default defineNuxtConfig({
   },
   runtimeConfig: {
     public: {
-      appURL: "http://localhost",
+      appURL: "http://localhost:3000",
     },
   },
   routeRules: {
